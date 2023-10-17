@@ -28,7 +28,7 @@ class Solution:
                 else:
                     if s[i:i+2] in slovar: #ce je naslednja crka v slovarju
                         if slovar[s[i:i+2]] >= slovar[crka]: # in ce je vecja od predhodnje
-                            rezultat += slovar[s[i:i+2]] # dodamo sedanjo in naslednjo cifro v rezultat
+                            rezultat += slovar[s[i:i+2]] # dodamo sedanjo in naslednjo cifro v rezultat (i+2 pomeni do ukljucno i+1)
                             naslednja_preverjena =  not naslednja_preverjena
                     else:  # ce je sedanja crka vecja od naslednje, jo dodamo v rezultat
                         rezultat += slovar[crka]
