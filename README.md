@@ -6,3 +6,4 @@ Rešitve LeetCode problemov, ki sem jih reševal
 - Two Sum -> Časovna zahtevnost: $O(n^2)$ brez uporabe hash map-a, časovna zahtevnost z uporabo hash map-a: $O(n)$
 - Roman to Integer -> Časovna zahtevnost: $O(n)$ 
 - Longest common prefix -> Časovna zahtevnost: $O(n)$, kjer je $n$ število črk v krajši izmed prve in zadnje besede
+- Valid Parentheses -> Časovna zahtevnost $O(n)$, kjer je $n$ dolžina niza
