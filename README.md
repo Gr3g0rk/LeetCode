@@ -8,3 +8,5 @@ Rešitve LeetCode problemov, ki sem jih reševal
 - Longest common prefix -> Časovna zahtevnost: $O(n)$, kjer je $n$ število črk v krajši izmed prve in zadnje besede
 - Valid Parentheses -> Časovna zahtevnost $O(n)$, kjer je $n$ dolžina niza
 - Remove Duplicates From Sorted Array -> Časovna zahtevnost $O(n)$, kjer je $n$ število elementov v tabeli
+- Find The Index Of The First Occurrence In A String -> Časovna zahtevnost $O(n)$, kjer je $n$ dolžina niza.
+- Plus On -> časovna zahtevnost $O(n)$, kjer je $n$ dolžina seznama. 
