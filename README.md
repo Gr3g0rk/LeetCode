@@ -14,4 +14,5 @@ Rešitve LeetCode problemov, ki sem jih reševal
 - Symmetrical Tree -> časovna zahtevnost: $O(n)$, kjer je $n$ število vozlišč v drevesu.
 - Climbing stairs -> časovna zahtevnost: $O(n)$, kjer je $n$ število stopnic.
 - Merge Sorted Array -> časovna zahrevnost $O(m + n)log(m + n)$, kjer je $m$ dolžina seznama nums1 in $n$ dolžina seznama nums2. Funkcija sort() ima časovno zahtevnost $O(nlogn)$, ker moramo pa urediti tabeli z dolžinama $m$ in $n$, je skupna časovna zahtevnost $O(m + n)log(m + n)$.
+- Valid Palindrome -> časovna zahtevnost: $O(n)$, kjer je $n$ število črk v nizu $s$.
 
