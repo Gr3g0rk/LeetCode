@@ -17,5 +17,5 @@ Rešitve LeetCode problemov, ki sem jih reševal
 - Valid Palindrome -> časovna zahtevnost: $O(n)$, kjer je $n$ število črk v nizu $s$.
 - Majority Element -> časovna zahtevnost: $O(n)$, kjer je $n$ število elementov v seznamu.
 - Remove Element -> časovna zahtevnost: $O(n)$, kjer je $n$ število elementov v seznamu.
-- 
+- Length Of Last Word -> časovna zahtevnost: $O(n)$, kjer je $n$ dolžina niza. 
 
